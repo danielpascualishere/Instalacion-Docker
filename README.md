@@ -15,3 +15,5 @@ Finalmente, hacemos click sobre "Download Docker Desktop for Windows"; esto inic
 
 Una vez descargado, hacemos click sobre éste y seleccionamos los pasos previos a la instalación definitiva del docker, así como la configuración deseada:
 [![entornos5.png](https://i.postimg.cc/g0zL2B2z/entornos5.png)](https://postimg.cc/HrNkSzMR)
+
+De esta forma, dispondremos del Docker completo para su utilización.
